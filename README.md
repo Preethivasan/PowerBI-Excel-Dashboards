@@ -30,7 +30,7 @@ Welcome! This repository features my interactive data dashboards built using **P
 
 📎 **Download**: [Personal_Budget_Tracker.xlsx](./Excel/Personal_Budget_Tracker.xlsx)  
 🖼️ **Preview**:  
-![Budget Tracker](./images/Personal%20Budget%20Tracker.png)
+![Budget Tracker](./images/Excel/Persnonal Budget Tracker.png)
 
 ---
 
