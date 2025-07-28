@@ -28,9 +28,9 @@ Welcome! This repository features my interactive data dashboards built using **P
 - Features Excel formulas, pivot charts, KPIs, and dynamic visuals
 - Clean and minimalist interface for monthly financial planning
 
-📎 **Download**: [Personal_Budget_Tracker.xlsx](./Excel/Personal%20Budget%20Tracker.xlsx)  
+📎 **Download**: [Personal_Budget_Tracker.xlsx](./Excel/Personal_Budget_Tracker.xlsx)  
 🖼️ **Preview**:  
-![Budget Tracker](./Excel/Personal Budget Tracker.png)
+![Budget Tracker](./Excel/Personal%20Budget%20Tracker.png)
 
 ---
 
