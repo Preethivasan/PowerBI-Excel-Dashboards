@@ -43,4 +43,8 @@ Welcome! This repository features my interactive data dashboards built using **P
 
 ## 📁 Folder Structure
 
+PowerBI/ → Power BI dashboard files and related screenshots
+Excel/ → Excel dashboard files and screenshots
+README.md → Project overview and documentation
+
 
