@@ -15,7 +15,7 @@ Welcome! This repository features my interactive data dashboards built using **P
 
 📎 **Download**: [Netflix.pbix](./PowerBI/Netflix.pbix)  
 🖼️ **Preview**:  
-![Netflix Dashboard](./images/NETFLIX%20DASHBOARD.png)
+![Netflix Dashboard](./images/PowerBI/NETFLIX DASHBOARD.png)
 
 ---
 
